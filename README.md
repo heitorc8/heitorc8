@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXd4eDhoMm96ZjRrMTFwZXhleGRybXN4NmN3eDMwdHJvdHkwYjl0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/abhMNHCMnbhV7Ad0Ij/giphy.gif" width="200px">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXd4eDhoMm96ZjRrMTFwZXhleGRybXN4NmN3eDMwdHJvdHkwYjl0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/abhMNHCMnbhV7Ad0Ij/giphy.gif" width="150px">
 </p>
 
 
@@ -14,9 +14,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXd4eDhoMm96ZjRrMTFwZXhleGRybXN4NmN3eDMwdHJvdHkwYjl0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/abhMNHCMnbhV7Ad0Ij/giphy.gif" width="200px">
-</p>
+
 ---
 
 Estudante de TI
@@ -43,3 +41,9 @@ Futuro Profissional na Area de Frontend
 <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risoflorais&show_icons=true&theme=bear&count_private=true"/>
 <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=risoflorais&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilhermesomensi/guilhermesomensi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilhermesomensi/guilhermesomensi/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/guilhermesomensi/guilhermesomensi/output/github-contribution-grid-snake.svg">
+</picture>
