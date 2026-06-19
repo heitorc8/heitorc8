@@ -4,7 +4,7 @@
 
 
 # Bem vindo ao meu GitHub!🖥️
-<p align="right">
+<p align="right down">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXd4eDhoMm96ZjRrMTFwZXhleGRybXN4NmN3eDMwdHJvdHkwYjl0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/abhMNHCMnbhV7Ad0Ij/giphy.gif" width="150px">
 </p>
  <div id="badges">
@@ -32,8 +32,10 @@ Futuro Profissional na Area de Frontend
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 </div>
+<div>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,vscode," />
+</div>
 
----
 
 
 <div align = "left">
