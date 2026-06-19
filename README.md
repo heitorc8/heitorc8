@@ -18,7 +18,7 @@ Meu Perfil GItHub
 Estudante de TI
 
 Futuro Profissional na Area de Frontend 
-| Quero me especializar na area de IA tambem
+| Pretendo me especializar na area de IA tambem
 | Passei um ano e meio nos EUA, realizei meu ultimo ano de High School com o Titulo de Excelencia nas Notas Academicas. Após terminar minha High School, me transferi para a faculdade da Carolina do sul USC-Union, onde fiquei apenas 3 meses cursando Engenharia de Software
 
 ---
